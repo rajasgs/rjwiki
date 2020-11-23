@@ -1,3 +1,5 @@
+/[Home](index.md)
+
 # How to install Miniconda
 
 **Note:** tbw
