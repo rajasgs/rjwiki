@@ -17,3 +17,14 @@ Flask Session
 	08. Page redirect after login
 ```
 
+
+
+
+
+```
+# 2902
+
+Flask Session and Profile Redirect
+
+
+```
