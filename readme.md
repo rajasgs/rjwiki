@@ -8,3 +8,4 @@
   * [How to install Miniconda](how-to-install-miniconda.md)
   * [AWS Commands](aws-commands.md)
   * [Venv](venv.md)
+  * [FPR Requirements](fpr-requirements.md)
