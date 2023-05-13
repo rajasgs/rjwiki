@@ -8,3 +8,4 @@
   * [AWS Commands](aws-commands.md)
   * [Venv](venv.md)
   * [FPR Requirements](fpr-requirements.md)
+  * [Courses](courses.md)
