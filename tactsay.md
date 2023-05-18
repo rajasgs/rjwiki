@@ -138,3 +138,51 @@
 9. (Yuvan Shankar Raja)
 	$300
 ```
+
+
+
+### Tech Topics:
+```
+Matplotlib
+
+PIL
+
+Selenium
+
+Requests
+
+BeautifulSoup
+
+Genaral Python
+
+Pandas
+
+Numpy
+
+SQL Alchemy
+
+Scrapy
+
+Asyncio
+
+AIOHTTP
+
+Bokeh
+
+Scipy
+
+Scikit Learn
+
+Tensorflow
+
+PyTorch
+
+Seaborn
+
+Genius Corner
+
+Keras
+
+```
+
+
