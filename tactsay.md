@@ -6,8 +6,7 @@
 
 
 ### Bottom (Left to Right):
-	[https://prnt.sc/5CTklUB3UOhj](https://prnt.sc/5CTklUB3UOhj)
-
+[https://prnt.sc/5CTklUB3UOhj](https://prnt.sc/5CTklUB3UOhj)
 ```
 1. Do Nothing
 
@@ -42,8 +41,7 @@
 
 
 ### Left (botto to up):
-	[https://prnt.sc/OdflTjE6M3WX](https://prnt.sc/OdflTjE6M3WX)
-
+[https://prnt.sc/OdflTjE6M3WX](https://prnt.sc/OdflTjE6M3WX)
 ```
 1. Genaral Python
 	$140
@@ -78,8 +76,7 @@
 
 
 ### Top (left to right):
-	[https://prnt.sc/dSVrhEjSsMcT](https://prnt.sc/dSVrhEjSsMcT)
-
+[https://prnt.sc/dSVrhEjSsMcT](https://prnt.sc/dSVrhEjSsMcT)
 ```
 1. AIOHTTP
 	$200
@@ -114,9 +111,7 @@
 
 
 ### Right (bottom to top):
-	[https://prnt.sc/eBX5g7IKcWrU](https://prnt.sc/eBX5g7IKcWrU)
-
-
+[https://prnt.sc/eBX5g7IKcWrU](https://prnt.sc/eBX5g7IKcWrU)
 ```
 1. Seaborn
 	$400
