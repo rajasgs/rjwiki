@@ -144,47 +144,47 @@
 
 
 ### Tech Topics:
-```
-Matplotlib
 
-PIL
+- [Matplotlib](ts-1-matplotlib.md)
 
-Selenium
+- [PIL](ts-1-template.md)
 
-Requests
+- [Selenium](ts-1-template.md)
 
-BeautifulSoup
+- [Requests](ts-1-template.md)
 
-Genaral Python
+- [BeautifulSoup](ts-1-template.md)
 
-Pandas
+- [Genaral Python](ts-1-template.md)
 
-Numpy
+- [Pandas](ts-1-template.md)
 
-SQL Alchemy
+- [Numpy](ts-1-template.md)
 
-Scrapy
+- [SQL Alchemy](ts-1-template.md)
 
-Asyncio
+- [Scrapy](ts-1-template.md)
 
-AIOHTTP
+- [Asyncio](ts-1-template.md)
 
-Bokeh
+- [AIOHTTP](ts-1-template.md)
 
-Scipy
+- [Bokeh](ts-1-template.md)
 
-Scikit Learn
+- [Scipy](ts-1-template.md)
 
-Tensorflow
+- [Scikit Learn](ts-1-template.md)
 
-PyTorch
+- [Tensorflow](ts-1-template.md)
 
-Seaborn
+- [PyTorch](ts-1-template.md)
 
-Genius Corner
+- [Seaborn](ts-1-template.md)
 
-Keras
+- [Genius Corner](ts-1-template.md)
 
-```
+- [Keras](ts-1-template.md)
+
+
 
 
