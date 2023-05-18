@@ -2,7 +2,7 @@
 
 # TactSay Tech: Matplotlib
 
-```
+
 1. It's a plotting library in Python with Numpy included.
 
 2. Scipy uses Matplotlib.
@@ -20,7 +20,8 @@
 8. xtics: Get or set the current tick locations and labels of the x-axis.
 
 
-src:
+#### src:
+```
 https://www.blog.pythonlibrary.org/2021/09/07/matplotlib-an-intro-to-creating-graphs-with-python/
 https://en.wikipedia.org/wiki/Matplotlib
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xticks.html
