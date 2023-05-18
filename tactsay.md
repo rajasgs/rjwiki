@@ -5,14 +5,10 @@
 **Note:** Say or Pay
 
 
-
-
-```
-TactSay:
-
-Bottom (Left to Right):
+### Bottom (Left to Right):
 	[https://prnt.sc/5CTklUB3UOhj](https://prnt.sc/5CTklUB3UOhj)
 
+```
 1. Do Nothing
 
 2. Py: Matplotlib
@@ -41,13 +37,14 @@ Bottom (Left to Right):
 
 11. Collect 100$ bonus as you pass
 	GO
+```
 
 
 
-
-Left (botto to up):
+### Left (botto to up):
 	[https://prnt.sc/OdflTjE6M3WX](https://prnt.sc/OdflTjE6M3WX)
 
+```
 1. Genaral Python
 	$140
 
@@ -75,14 +72,15 @@ Left (botto to up):
 	$200
 
 10. Watch Movie
+```
 
 
 
 
-
-Top (left to right):
+### Top (left to right):
 	[https://prnt.sc/dSVrhEjSsMcT](https://prnt.sc/dSVrhEjSsMcT)
 
+```
 1. AIOHTTP
 	$200
 
@@ -111,13 +109,15 @@ Top (left to right):
 	$280
 
 10. Do Nothing
+```
 
 
 
-
-Right (bottom to top):
+### Right (bottom to top):
 	[https://prnt.sc/eBX5g7IKcWrU](https://prnt.sc/eBX5g7IKcWrU)
 
+
+```
 1. Seaborn
 	$400
 
