@@ -143,7 +143,3 @@ Right (bottom to top):
 9. (Yuvan Shankar Raja)
 	$300
 ```
-
-#### Ref :
-
-  * []()
