@@ -884,6 +884,18 @@ Marriage Wishlist
 ```
 # 2958
 
+Store Finder by Manual
+
+https://www.walmart.com/store/2038-sterling-va
+
+https://www.walmart.com/store/774-columbus-ne
+
+https://www.walmart.com/store-directory
+https://www.walmart.com/store-directory/ks
+https://www.walmart.com/store/1054-atchison-ks
+
+https://www.walmart.com/store/774
+https://www.walmart.com/store/1055
 
 ```
 
@@ -893,6 +905,20 @@ Marriage Wishlist
 ```
 # 2959
 
+Store Finder with Selenium
+
+Download HAR 
+
+https://www.walmart.com/store/2038-sterling-va
+
+https://www.walmart.com/store/774-columbus-ne
+
+https://www.walmart.com/store-directory
+https://www.walmart.com/store-directory/ks
+https://www.walmart.com/store/1054-atchison-ks
+
+https://www.walmart.com/store/774
+https://www.walmart.com/store/1055
 
 ```
 
