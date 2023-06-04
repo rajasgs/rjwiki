@@ -10,3 +10,4 @@
   * [FPR Requirements](fpr-requirements.md)
   * [Courses](courses.md)
   * [TactSay](tactsay.md)
+  * [Ubuntu Commands](ubuntu-commands.md)
