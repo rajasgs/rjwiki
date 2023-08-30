@@ -4,60 +4,16 @@
 
 
 
-```
-ResearchCamp:
-	4 - 6 months
-
-	Gamified Learning
-	Weekly Battle and win up to 1000 INR
-	2 ML Industrial Strength Projects
-		1 Tech Project
-		1 Fun and Tech Project (game like this)
-	1-2 Research Paper in ArXiv
-	Lifetime Online sessions
-	Job guarantee within 4 months of graduation or money back policy
-
-	Original Price:
-	1L INR
-
-	After discount:
-	30K INR
-
-```
+  * [ResearchCamp](researchcamp.md)
+  * [Machine Learning Engineering Bootcamp](ml-engineering-bootcamp.md)
+  * [Test](test.md)
 
 
 
 
 
 
-```
-ML Engineering Bootcamp (Applied Machine Learning)
-	4 - 5 months
-
-Unique:
-	Job Shadowing along with sessions
-		40% sessions
-		60% Job Shadowing
-
-	2-3 Projects
-		1-2 Tech projects
-		1 Fun projects
-
-	Money back guarantee if you don't get a job within 5 months (after graduation)
-
-	Intern Opportunity
-
-	Weekly Battle and get 10$ (winner credits) worth of credits
-
-	Convert all of your credits to Gift card (Amazon or Equivalent)
-
-
-
-
-Topics:
-
-
-```
+`
 
 
 
