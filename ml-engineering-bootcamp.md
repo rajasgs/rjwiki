@@ -1,4 +1,4 @@
-/ [Home](index.md)
+/ [Home](index.md) / [Courses](courses.md)
 
 ## Machine Learning Engineering Bootcamp (Applied Machine Learning)
 
