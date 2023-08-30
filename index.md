@@ -11,3 +11,8 @@
   * [Courses](courses.md)
   * [TactSay](tactsay.md)
   * [Ubuntu Commands](ubuntu-commands.md)
+  * [Mac Commands](mac-commands.md)
+  * [DevOps Tasks](devops-tasks.md)
+  * [Vector on Ubuntu](vector.md)
+  * [Virtualenv](virtualenv.md)
+  * [How to upgrade volumne in Ec2](ec2-volume-upgrade.md)
