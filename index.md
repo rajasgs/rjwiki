@@ -18,3 +18,4 @@
   * [How to upgrade volumne in Ec2](ec2-volume-upgrade.md)
   * [Ubuntu tools Installation](ubuntu-tools-installation.md)
   * [cURL Basics](curl-basics.md)
+  * [Amazon Lingo](amazon-lingo.md)
