@@ -107,7 +107,7 @@ https://wiki.tactii.com/gush.html
 
 
 
-### T
+### Brave and make it as a default browser
 ```
 
 
