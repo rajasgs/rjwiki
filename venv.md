@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-# Tempalte
+# Template
 
 **Note:** tbw
 

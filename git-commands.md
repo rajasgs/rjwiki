@@ -174,23 +174,17 @@ git diff new-feature..new-feature2 | git apply -
 
 
 ```
+Find the parent branch: (buggy as well)
+git for-each-ref --format='%(refname:short)' refs/heads/* | while read b; do if r=$(git config --get branch.$b.remote); then m=$(git config --get branch.$b.merge); echo "$b -> $r/${m##*/}"; fi; done
+
+	https://blog.liplex.de/git-show-parent-branch/
 
 ```
 
 
 ```
-
-```
-
-
-
-
-```
-
-```
-
-
-```
+Git Rebase
+https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
 
 ```
 
@@ -198,23 +192,16 @@ git diff new-feature..new-feature2 | git apply -
 
 
 ```
+git bi-sect
+https://git-scm.com/docs/git-bisect
 
 ```
 
 
 ```
+Git rebase vs git merge
+https://stackoverflow.com/questions/804115/when-do-you-use-git-rebase-instead-of-git-merge
 
-```
-
-
-
-
-```
-
-```
-
-
-```
 
 ```
 
@@ -222,23 +209,16 @@ git diff new-feature..new-feature2 | git apply -
 
 
 ```
-
+(HEAD detached from refs/heads/feat-product-apply-permission-K20-1382-new)
+Not sure what does it mean
+	https://loekvandenouweland.com/content/head-detached-from-origin-master.html
+	
 ```
 
 
 ```
-
-```
-
-
-
-
-```
-
-```
-
-
-```
+When should I git pull rebase
+https://stackoverflow.com/questions/2472254/when-should-i-use-git-pull-rebase
 
 ```
 
@@ -246,35 +226,20 @@ git diff new-feature..new-feature2 | git apply -
 
 
 ```
+merge vs pull
+	git pull origin master
+	is same as
+		git fetch origin
+		git merge origin/master
+https://stackoverflow.com/questions/21756614/difference-between-git-merge-origin-master-and-git-pull
 
 ```
 
 
 ```
+Merge another branch changes into mine
+https://help.github.com/en/articles/merging-an-upstream-repository-into-your-fork
 
-```
-
-
-
-
-```
-
-```
-
-
-```
-
-```
-
-
-
-
-```
-
-```
-
-
-```
 
 ```
 
@@ -282,59 +247,47 @@ git diff new-feature..new-feature2 | git apply -
 
 
 ```
-
+Show which files have been changed from another branch
+git diff --name-status another_branch
+git diff --name-status feat-product-apply-permission-K20-1382-latest
+git diff --name-status p
+	https://stackoverflow.com/questions/822811/showing-which-files-have-changed-between-two-revisions
 ```
 
 
 ```
+delete a branch
+git branch -D branch_name
 
-```
-
-
-
-
-```
-
-```
-
-
-```
-
-```
-
-
-
-
-```
-
-```
-
-
-```
-
+or
+git push -d <remote_name> <branchname>
+$ git branch -d <branchname>
+https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely	
+	
 ```
 
 
 
 
 ```
+Git stash
+git stash list 
+	will list all stashes
+	
+git stash show
+	
+
+https://git-scm.com/docs/git-stash
+https://www.koskila.net/how-to-list-your-git-stashes/
 
 ```
 
 
 ```
-
-```
-
-
-
-
-```
-
-```
-
-
-```
+Show git username
+git config user.name
+git config --list
+https://alvinalexander.com/git/git-show-change-username-email-address
 
 ```
 
@@ -342,23 +295,257 @@ git diff new-feature..new-feature2 | git apply -
 
 
 ```
+View file in another branch
+https://stackoverflow.com/questions/7856416/view-a-file-in-a-different-git-branch-without-changing-branches
+
+```
+
+
+```
+Undo pushed commits
+https://stackoverflow.com/questions/22682870/git-undo-pushed-commits
+
+```
+
+
+
+
+```
+How to revoke last pushed commit?
+
+```
+
+
+```
+Get the old check point
+git checkout 85d29a6c0853f85303f87091efd8b3ac9ca69766
+```
+
+
+
+
+```
+git add .
+git commit -m "Last commit revoked"fa
+git push origin HEAD:master -f
+
+```
+
+
+```
+how to merge my branch to master in git?
+git checkout master
+git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME
+git push origin master
+
+git push --set-upstream origin qa-current
+git push --set-upstream origin feat-raja-one
+
+branches:
+* feat-raja-one
+  master
+  qa-current
+  remotes/origin/feat-raja-one
+  remotes/origin/master
+  remotes/origin/qa-current
+  
+merge branch to qa-current
+git pull
+git checkout qa-current
+git pull
+git pull https://github.com/rajasgs/merge-test feat-raja-one
+git push origin qa-current
+
+https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-an-upstream-repository-into-your-fork
+
+```
+
+
+
+
+```
+
+how to mirror github repo?
+    
+    git clone --bare https://github.com/KwikeeLabs/PrinterSpecsETL.git
+    cd PrinterSpecsETL.git
+    git push --mirror https://github.com/rajasgs/PrinterSpecsETLDec2019.git
+    cd ..
+    rm -rf PrinterSpecsETL.git
+    
+        https://github.com/KwikeeLabs/PrinterSpecsETL
+    
+        https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
+```
+
+
+```
+
+git amend
+git commit --amend -m "Message"
+
+    https://www.atlassian.com/git/tutorials/rewriting-history
+
+
+
+```
+
+
+
+
+```
+Git tags
+git tag v1.0
+git tag -a v1.1 -m "Second version"
+git tag
+git show v1.0
+git tag -l "v1.*"
+git push origin v1.0
+git push origin --tags
+git push --tags
+git tag -d v1.0
+git push origin -d v.10
+git checkout tags/v1.0
+git fetch --all
+	more: https://www.youtube.com/watch?v=govmXpDGLpo
+	https://stackoverflow.com/questions/35979642/what-is-git-tag-how-to-create-tags-how-to-checkout-git-remote-tags
+	https://devconnected.com/how-to-delete-local-and-remote-tags-on-git/
+	
 
 ```
 
 
 ```
 
+git submodule add https://github.com/chaconinc/DbConnector
+https://github.com/KwikeeDev/rest
+
+git submodule add git@github.com:KwikeeDev/rest.git
+
+
+```
+
+
+
+
+```
+Test ssh is setup for Github
+	ssh -T git@github.com
+	It should show like below
+		Hi rajasgs! You've successfully authenticated, but GitHub does not provide shell access.
+	
+	ssh -T git@gitlab.com
+	It should show like below
+		Welcome to GitLab, @rajasyn101!
+```
+
+
+```
+how to uncommit the previous commit before push + git
+
+git reset HEAD~1
+	https://www.cluemediator.com/undo-commit-before-push-in-git
+
 ```
 
 
 
 
 ```
+git squash
+	https://www.git-tower.com/learn/git/faq/git-squash/
+	
 
 ```
 
 
 ```
+Use github.com for multiple user accounts:
+
+~/.ssh/config:
+
+Host github.com-rajasgs
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/id_rsa
+
+Host github.com-csp
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/id_rsa_csp
+	
+
+ssh-add ~/.ssh/id_rsa_csp
+
+view agents:
+ssh-add -L
+
+https://gist.github.com/oanhnn/80a89405ab9023894df7
+
+Verify:
+ssh -T git@github.com-rajasgs
+ssh -T git@github.com-csp
+
+ssh -T git@github.com
+
+git clone git@github.com-csp:org-account/company-project-repo.git
+
+
+```
+
+
+
+
+```
+git branch -v
+	* main 3c7b8ba Updates for 2022-12-13
+```
+
+
+```
+git remote -v
+origin	git@github.com:rajasgs/pandas-vs-pyspark-parquet-benchmarking.git (fetch)
+origin	git@github.com:rajasgs/pandas-vs-pyspark-parquet-benchmarking.git (push)
+
+
+```
+
+
+
+
+```
+git@gitlab.com:GladsonWorkspace/analytics/localstack-examples.git
+cd localstack-examples
+git remote add github git@github.com:rajasgs/localstack-examples.git
+git push --mirror github
+
+```
+
+
+```
+
+git subtree
+
+	https://www.atlassian.com/git/tutorials/git-subtree
+```
+
+
+
+
+```
+view all subtrees:
+git log | grep git-subtree-dir | tr -d ' ' | cut -d ":" -f2 | sort | uniq
+	
+	https://stackoverflow.com/questions/16641057/how-can-i-list-the-git-subtrees-on-the-root
+
+
+```
+
+
+```
+subrepos
+
+https://github.com/ingydotnet/git-subrepo#benefits
 
 ```
 
