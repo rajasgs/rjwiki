@@ -20,3 +20,4 @@
   * [cURL Basics](curl-basics.md)
   * [Amazon Lingo](amazon-lingo.md)
   * [RJLingo](rjlingo.md)
+  * [Alias](alias.md)
