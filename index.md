@@ -21,3 +21,4 @@
   * [Amazon Lingo](amazon-lingo.md)
   * [RJLingo](rjlingo.md)
   * [Alias](alias.md)
+  * [Git Commands](git-commands.md)
