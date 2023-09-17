@@ -27,6 +27,6 @@ Windows:
 
 
 ### Chrome Drivers versions:
-* [](https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
-* [](https://googlechromelabs.github.io/chrome-for-testing/)
-* [](https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
+* [JSON endpoints](https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
+* [Chrome for testing](https://googlechromelabs.github.io/chrome-for-testing/)
+* [Chromium Downloads](https://chromedriver.chromium.org/downloads)
