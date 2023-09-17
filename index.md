@@ -22,3 +22,4 @@
   * [RJLingo](rjlingo.md)
   * [Alias](alias.md)
   * [Git Commands](git-commands.md)
+  * [Selenium Commands](selenium-commands.md)
