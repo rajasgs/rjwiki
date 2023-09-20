@@ -68,6 +68,8 @@ alias dexec="docker exec -it"
 alias co="code"
 alias zshco="code ~/.zshrc"
 alias plogs="cd /home/rajaraman/csp/riversand-logs"
-
+alias gsus="git status"
+alias rjwiki="cd /home/rajaraman/csp/rjwiki"
+alias wiki="rjwiki"
 ```
 

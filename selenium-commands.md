@@ -13,17 +13,34 @@ Ubuntu:
   which chromedriver
 
 Mac:
-  TBD
+  brew install --cask google-chrome
+
+  brew install --cask chromedriver
 
 
 Windows:
   TBD
+
+verify:
+  which google-chrome
+    /usr/bin/google-chrome
+
+  google-chrome --version
+    Google Chrome 116.0.5845.179
+
+verify:
+  which chromedriver
+    /usr/bin/chromedriver
+
+  chromedriver --version 
+    ChromeDriver 116.0.5845.187 (b2eab7500a18bd4d372f10149c6223fdfe48e3be-refs/branch-heads/5845@{#1779}
 
 ```
 
 #### Ref :
 
   * [Chrome Driver](https://askubuntu.com/questions/539498/where-does-chromedriver-install-to)
+  * [Google Chrome Driver - Brew](https://formulae.brew.sh/cask/google-chrome)
 
 
 ### Chrome Drivers versions:
