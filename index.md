@@ -26,3 +26,4 @@
   * [VSCode Extensions](vscode-extensions.md)
   * [Subrepo](subrepo.md)
   * [IVQ](ivq.md)
+  * [How to Publish Pypi](how-to-publish-pypi.md)

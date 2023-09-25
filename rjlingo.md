@@ -28,6 +28,12 @@ CYTE - effort scoring
     9  - 
 
     10 - Utopian and it will never happen
+
+Athena  - Atheism
+
+F - Faith
+
+
 ```
 
 #### Ref :
