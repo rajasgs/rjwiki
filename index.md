@@ -24,7 +24,7 @@
   * [Git Commands](git-commands.md)
   * [Selenium Commands](selenium-commands.md)
   * [VSCode Extensions](vscode-extensions.md)
-  * [Subrepo](subrepo.md)
+  * [Subtree](subtree.md)
   * [IVQ](ivq.md)
   * [How to Publish Pypi](how-to-publish-pypi.md)
   * [Turn Off Privacy](turn-off-privacy.md)
