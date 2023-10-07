@@ -7,7 +7,8 @@
 ```
 RSA - Riversand Archive
 
-CYTE - effort scoring
+CYTE - effort scoring 
+  Code Yamaha 
   Score and Meaning:
     1  - 
 
@@ -35,7 +36,7 @@ F - Faith
 
 NWP - Nice Web Page
 
-
+RJMac-SC   - Scraper Central Mac
 
 ```
 

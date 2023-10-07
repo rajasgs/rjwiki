@@ -1,6 +1,6 @@
 / [Home](index.md)
 
-# RMLUtils
+# RML Utils
 
 **Note:** Riversand Machine Learning Utils
 
