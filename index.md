@@ -29,3 +29,4 @@
   * [How to Publish Pypi](how-to-publish-pypi.md)
   * [Turn Off Privacy](turn-off-privacy.md)
   * [RML Utils](rmlutils.md)
+  * [Linux Course - Webminal](linux-course-webminal.md)
