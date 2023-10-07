@@ -5,4 +5,4 @@
 
 - Topic 1:
 
-<img src="/images/linux1/l1.png" alt="image">
+![image](images/linux1/l1.png)
