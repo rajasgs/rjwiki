@@ -30,3 +30,4 @@
   * [Turn Off Privacy](turn-off-privacy.md)
   * [RML Utils](rmlutils.md)
   * [Linux Course - Webminal](linux-course-webminal.md)
+  * [Games](games.md)
