@@ -90,6 +90,49 @@ Images of the BTS members will be randomly diaplayed, you must guess whose image
 
 
 ```
+Franero
+
+Let’s play with idioms.
+
+An Idiom phrase will be displayed, you must find the meaning of it, in a given time.
+```
+
+
+
+
+```
+Handcricket
+
+Lets go back to our school days and break the records of all international players.
+
+A nostalgic 2 players game where one would be batsman and the other would be bowler.
+
+Batsman can enter any number between 1 to 6 and add his scores, bowler should guess the batsman move and if the batsman and bowler enters the same number the batsman is out.
+
+Hurry up to the ground guys.
+```
+
+
+
+
+```
+Just Duck It
+
+A game where you can Duck and win!
+How it works?
+For the entry fee (50 Tact Credits), we will subscribe a course for you.
+You will have to start learning the course in 6 days.
+You should appear for the Tech battle on Saturday evening 6pm IST
+Whoever gets the top score in the Tech Battle game will win the Prize (29000 TC)
+How to win the Game?
+You will be given the specific topic which is related to the course and given 15 minutes time to collect the questions online.
+You should Duck Interview Questions related to the topic within 15 minutes.
+During the battle time, you should post your question on Tact Info (https://tactinfo.herokuapp.com/admin) and tell the question as well
+Based on your question complexity, our Human and ML Judges will score your factor between 1 to 10.
+Assume your factor is 7/10 and someone answered your question within 60 seconds, they will get 10 fold of the factor which is 70 points.
+If no opponents answered your questions in 60 seconds, you will be given 5 fold of your factor which is 35.
+There might be 3-4 rounds to cover all teams. It would be one to many format.
+Whoever gets the maximum points after all rounds will be announced as a winner.
 
 ```
 
@@ -97,20 +140,18 @@ Images of the BTS members will be randomly diaplayed, you must guess whose image
 
 
 ```
+Story-weaving
 
-```
+Students show there talent of story writting in elective papers as they don’t have a stage to show their talent.
 
+Yours wories have come to an end.
 
+A plot will be given by the judge and all the players should continue the story one after the other.
 
+You can say whatever you want because this is a complete fun activity.
 
-```
+No winners no loosers.
 
-```
-
-
-
-
-```
 
 ```
 
@@ -118,6 +159,8 @@ Images of the BTS members will be randomly diaplayed, you must guess whose image
 
 
 ```
+CronMe
+
 
 ```
 
