@@ -32,3 +32,5 @@
   * [Linux Course - Webminal](linux-course-webminal.md)
   * [Games](games.md)
   * [Chennai](chennai.md)
+  * [Wagtail](wagtail.md)
+  * [Oscar](oscar.md)
