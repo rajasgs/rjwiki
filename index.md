@@ -34,3 +34,5 @@
   * [Chennai](chennai.md)
   * [Wagtail](wagtail.md)
   * [Oscar](oscar.md)
+  * [LangChain Commands](langchain-commands.md)
+  
