@@ -35,4 +35,5 @@
   * [Wagtail](wagtail.md)
   * [Oscar](oscar.md)
   * [LangChain Commands](langchain-commands.md)
+  * [Data Collection](data-collection.md)
   
