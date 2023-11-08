@@ -42,6 +42,13 @@ linen - LInkedin NEtwork aNalysis
 
 Digital Signage / DiSiAI - Digital Signage AI
 
+TAN - Tact Analysis of Network / Network Index
+
+WA - WhatsApp
+
+IRL - IR Lottery - IlayaRaja Lottery
+
+TriK - Tribal Knowledge
 
 ```
 
