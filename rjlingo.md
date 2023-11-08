@@ -38,6 +38,11 @@ NWP - Nice Web Page
 
 RJMac-SC   - Scraper Central Mac
 
+linen - LInkedin NEtwork aNalysis
+
+Digital Signage / DiSiAI - Digital Signage AI
+
+
 ```
 
 #### Ref :
