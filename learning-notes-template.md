@@ -33,7 +33,8 @@ sequence meaning.  These representations are then passed to the decoder, which
 generates an output sequence through an autoregressive process, predicting one word at a time.
 
 2. A practical example is engilsh to french translation.The encoder understands 
-the English sentence, and the decoder, using the feature vector, generates the corresponding French words.
+the English sentence, and the decoder, using the feature vector, generates the 
+corresponding French words.
 
 3. The decoder continues generating words until a "stopping value" is encountered, 
 indicating the completion of the sequence. The first word, denoting the start of 
