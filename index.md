@@ -36,4 +36,5 @@
   * [Oscar](oscar.md)
   * [LangChain Commands](langchain-commands.md)
   * [Data Collection](data-collection.md)
+  * [Learning Notes Template](learning-notes-template.md)
   
