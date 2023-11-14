@@ -30,7 +30,8 @@ https://www.youtube.com/watch?v=0_4KEb08xrE
 
 1. The encoder processes input words, creating numerical representations that capture 
 sequence meaning.  These representations are then passed to the decoder, which 
-generates an output sequence through an autoregressive process, predicting one word at a time.
+generates an output sequence through an autoregressive process, 
+predicting one word at a time.
 
 2. A practical example is engilsh to french translation.The encoder understands 
 the English sentence, and the decoder, using the feature vector, generates the 
