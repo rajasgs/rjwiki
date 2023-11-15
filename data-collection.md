@@ -1,3 +1,7 @@
+---
+title: Data Collection
+---
+
 / [Home](index.md)
 
 # Data Collection
