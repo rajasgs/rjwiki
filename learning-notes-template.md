@@ -1,3 +1,7 @@
+---
+title: Learning Notes Template
+---
+
 / [Home](index.md)
 
 # Learning Notes Template
