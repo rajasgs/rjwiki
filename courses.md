@@ -1,3 +1,7 @@
+---
+title: Courses
+---
+
 / [Home](index.md)
 
 # Courses

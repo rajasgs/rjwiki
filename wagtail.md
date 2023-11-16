@@ -1,3 +1,7 @@
+---
+title: Wagtail
+---
+
 / [Home](index.md)
 
 # Wagtail

@@ -1,3 +1,7 @@
+---
+title: How to Publish Pypi
+---
+
 / [Home](index.md)
 
 # How to publish on Pypi

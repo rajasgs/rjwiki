@@ -1,3 +1,7 @@
+---
+title: Amazon Lingo
+---
+
 / [Home](index.md)
 
 # Amazon Lingo

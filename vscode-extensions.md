@@ -1,3 +1,7 @@
+---
+title: VSCode Extensions
+---
+
 / [Home](index.md)
 
 # VSCode Extensions

@@ -1,3 +1,7 @@
+---
+title: Git Commands
+---
+
 / [Home](index.md)
 
 # Git Commands

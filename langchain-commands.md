@@ -1,3 +1,7 @@
+---
+title: LangChain Commands
+---
+
 / [Home](index.md)
 
 # LangChain Commands

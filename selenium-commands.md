@@ -1,3 +1,7 @@
+---
+title: Selenium Commands
+---
+
 / [Home](index.md)
 
 # Selenium Commands

@@ -1,3 +1,7 @@
+---
+title: Courses Misc
+---
+
 / [Home](index.md) / [Courses](courses.md)
 
 # Courses

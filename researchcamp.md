@@ -1,3 +1,7 @@
+---
+title: Research Camp
+---
+
 / [Home](index.md) / [Courses](courses.md)
 
 # Research Camp

@@ -1,3 +1,7 @@
+---
+title: Julia Commands
+---
+
 / [Home](index.md)
 
 # Julia Commands

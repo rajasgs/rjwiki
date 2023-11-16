@@ -1,3 +1,7 @@
+---
+title: Devops Tasks
+---
+
 / [Home](index.md)
 
 ## Devops Tasks

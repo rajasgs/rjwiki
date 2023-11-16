@@ -1,3 +1,7 @@
+---
+title: Mac Commands
+---
+
 / [Home](index.md)
 
 ## Title

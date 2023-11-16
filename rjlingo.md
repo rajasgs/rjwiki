@@ -1,3 +1,7 @@
+---
+title: RJ Lingo
+---
+
 / [Home](index.md)
 
 # RJLingo

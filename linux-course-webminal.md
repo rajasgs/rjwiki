@@ -1,3 +1,7 @@
+---
+title: Linux Course Webminal
+---
+
 / [Home](index.md)
 
 # Linux Course

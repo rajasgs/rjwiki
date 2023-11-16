@@ -1,3 +1,7 @@
+---
+title: Why do you need to learn coding earlier
+---
+
 / [Home](index.md)
 
 ## Why do you need to learn at teenage

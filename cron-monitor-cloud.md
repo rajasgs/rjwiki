@@ -1,3 +1,7 @@
+---
+title: Cron Monitor Cloud
+---
+
 / [Home](index.md)
 
 # Cron Monitor Cloud

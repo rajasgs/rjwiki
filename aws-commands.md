@@ -1,3 +1,7 @@
+---
+title: AWS Commands
+---
+
 / [Home](index.md)
 
 # AWS Commands

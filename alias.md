@@ -1,3 +1,7 @@
+---
+title: Alias
+---
+
 / [Home](index.md)
 
 # Alias

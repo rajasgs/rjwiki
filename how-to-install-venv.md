@@ -1,3 +1,7 @@
+---
+title: How to install Venv
+---
+
 / [Home](index.md)
 
 # How to use Venv

@@ -1,3 +1,7 @@
+---
+title: Insta Custom
+---
+
 / [Home](index.md)
 
 # Insta Custom

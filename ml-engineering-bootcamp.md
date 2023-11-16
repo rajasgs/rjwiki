@@ -1,3 +1,7 @@
+---
+title: ML Engineering Bootcamp
+---
+
 / [Home](index.md) / [Courses](courses.md)
 
 ## Machine Learning Engineering Bootcamp (Applied Machine Learning)

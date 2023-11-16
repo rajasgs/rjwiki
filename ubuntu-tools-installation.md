@@ -1,3 +1,7 @@
+---
+title: Ubuntu Tools Installation
+---
+
 / [Home](index.md)
 
 # Mactools Installation

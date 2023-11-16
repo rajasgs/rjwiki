@@ -1,3 +1,7 @@
+---
+title: TactSay 1: Matplotlib
+---
+
 / [Home](index.md)
 
 # TactSay Tech: Matplotlib

@@ -1,3 +1,7 @@
+---
+title: EC2 Volume Upgrade
+---
+
 / [Home](index.md)
 
 ## How to upgrade volumne in Ec2

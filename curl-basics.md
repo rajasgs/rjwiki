@@ -1,3 +1,7 @@
+---
+title: cURL Basics
+---
+
 / [Home](index.md)
 
 # cURL Basics

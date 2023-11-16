@@ -1,3 +1,7 @@
+---
+title: Turn Off Privacy
+---
+
 / [Home](index.md)
 
 # Turn off Privacy

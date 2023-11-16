@@ -1,3 +1,7 @@
+---
+title: Oscar
+---
+
 / [Home](index.md)
 
 # Oscar

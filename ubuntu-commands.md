@@ -1,3 +1,7 @@
+---
+title: Ubuntu Commands
+---
+
 / [Home](index.md)
 
 # Ubuntu Commands

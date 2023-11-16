@@ -1,3 +1,7 @@
+---
+title: How to install Miniconda
+---
+
 / [Home](index.md)
 
 # How to install Miniconda

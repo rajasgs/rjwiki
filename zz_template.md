@@ -1,3 +1,7 @@
+---
+title: RJWiki
+---
+
 / [Home](index.md)
 
 # Template

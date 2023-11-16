@@ -1,3 +1,7 @@
+---
+title: Games
+---
+
 / [Home](index.md)
 
 # FPR Games
