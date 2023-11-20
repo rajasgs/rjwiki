@@ -37,4 +37,5 @@
   * [LangChain Commands](langchain-commands.md)
   * [Data Collection](data-collection.md)
   * [Learning Notes Template](learning-notes-template.md)
+  * [How to download YT History](how-to-download-yt-history.md)
   
