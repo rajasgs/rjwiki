@@ -6,7 +6,7 @@ title: Linux commands
 
 # Template
 
-**Note:** tbw
+**Note:** Learn Linux
 
 
 
