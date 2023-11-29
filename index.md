@@ -41,4 +41,5 @@
   * [Linux Commands](linux-commands.md)
   * [Terminal Profile](terminal-profile.md)
   * [SSH Testimonial](ssh-testimonials.md)
+  * [Effort Log](effort-log.md)
   
