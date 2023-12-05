@@ -6,9 +6,6 @@ title: Java Commands
 
 # Java Commands
 
-**Note:** tbw
-
-
 
 ## Run Javac
 ```
