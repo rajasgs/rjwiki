@@ -43,4 +43,5 @@
   * [SSH Testimonial](ssh-testimonials.md)
   * [Effort Log](effort-log.md)
   * [NER Training and Inference](ner-traing-and-inference.md)
+  * [Java Commands](java-commands.md)
   
