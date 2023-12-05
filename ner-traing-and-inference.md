@@ -31,34 +31,27 @@ OpenJDK 64-Bit Server VM (build 11.0.21+9-post-Ubuntu-0ubuntu120.04, mixed mode,
 git clone git@github.com:rajasgs/nerinference-migration.git
 cd nerinference-migration
 
-javac -d . -cp "./jars/*" PredictNER.java
+javac -d . -cp "./resource_files/jars/*:." PredictNER.java
 
-java -cp "./jars/*" PredictNER.java "ecolab_address_20231026_1.model.ser.gz" "1421-2030 Spadina Road" "STREET_NAME,HOUSE_NO,SUITE_NO"
+java -cp "./resource_files/jars/*" batch/code/ner/PredictNER "./models/ecolab_address_20231026_1.model.ser.gz" "1421-2030 Spadina Road" "STREET_NAME,HOUSE_NO,SUITE_NO"
+
+You should see something like this:
+  Loading classifier from ./models/ecolab_address_20231026_1.model.ser.gz ... done [0.1 sec].
+  STREET_NAME=- Spadina Road
+  HOUSE_NO=1421 2030
+  SUITE_NO=null
+
 ```
 
 ## How to make custom Jar?
 ```
-custom-jar
+jar cvf ./resource_files/jars/rner_202312051.jar batch/code/ner/PredictNER.class ./jars/stanford-ner.jar
 
-jar tf ner.jar
+You should see something like this:
 
-
-javac -d . *.java
-jar cvf rner.jar *
-
-
-javac -d . -cp "jars/*:." PredictNER.java
-
-javac -d . PredictNER.java 
-
-
-https://www.baeldung.com/java-create-jar
-
-java -cp rner.jar com.baeldung.jar.JarExample
-
-
-java -cp "jars/*:." one.two.SimplePredictNER.java models/v1.model.ser.gz
-
+added manifest
+adding: batch/code/ner/PredictNER.class(in = 3362) (out= 1624)(deflated 51%)
+adding: jars/stanford-ner.jar(in = 4661456) (out= 4341948)(deflated 6%)
 
 ref:
 https://stackoverflow.com/questions/25116532/does-the-javac-command-automatically-create-directories-specified-in-the-package
@@ -66,9 +59,13 @@ https://github.com/buildpacks/sample-java-app/tree/main/src/main/java/io/buildpa
 https://www.baeldung.com/java-create-jar
 ```
 
-
-## Create JAR File
-
-
 ## Testing with JAR and JPype
+```
+jar tf ./resource_files/jars/rner_202312051.jar
 
+You shoule see something like this:
+META-INF/
+META-INF/MANIFEST.MF
+batch/code/ner/PredictNER.class
+jars/stanford-ner.jar
+```
