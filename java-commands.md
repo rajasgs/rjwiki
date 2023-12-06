@@ -41,7 +41,7 @@ adding: jars/stanford-ner.jar(in = 4661456) (out= 4341948)(deflated 6%)
 ```
 
 
-## Verify 
+## Verify Jar
 ```
 jar tf ./resource_files/jars/rner_202312051.jar
 
