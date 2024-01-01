@@ -96,6 +96,8 @@ types:
 Data Scientist
 ML Engineer
 ML Ops
+
+Create a dummy LI account to collect these
 ```
 
 
