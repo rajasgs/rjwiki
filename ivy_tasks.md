@@ -77,3 +77,25 @@ Datacamp 		- https://www.linkedin.com/school/datacampinc/
 
 5. https://www.linkedin.com/feed/update/urn:li:activity:7141160298236801024
 ```
+
+
+### 123005 - 100 Days of DS
+```
+100 days of DS
+	100daysofdatascience-ashwin.txt
+```
+
+
+### 123006 - ML Job Requirements
+```
+ML job requirements collection
+	phase 1: collect 10K jobs manually
+	phase 2: use smart data collector
+
+types:
+Data Scientist
+ML Engineer
+ML Ops
+```
+
+

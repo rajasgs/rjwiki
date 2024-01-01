@@ -49,3 +49,4 @@
   * [Ivy Tasks](ivy_tasks.md)
   * [Research Publication Platforms](research-publication-platforms.md)
   * [Virtualenv Commands](virtualenv-commands.md)
+  * [ML Summer Schools](ml-summer-schools.md)
