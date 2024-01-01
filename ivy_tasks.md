@@ -6,6 +6,15 @@ title: Ivy Tasks
 
 # Ivy Tasks
 
+## Collection Type
+```
+	onetime
+	ongoing
+		every week
+	tilldate
+		till Dec 22
+```
+
 
 ### 123001 - Collect MLers
 ```
