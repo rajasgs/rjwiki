@@ -106,6 +106,12 @@ Data Scientist
 ML Engineer
 ML Ops
 
+job-req-collector.txt
+
+Collect HAR files
+
+Collect in text file
+
 Create a dummy LI account to collect these
 ```
 
