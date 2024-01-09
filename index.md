@@ -51,3 +51,4 @@
   * [Virtualenv Commands](virtualenv-commands.md)
   * [ML Summer Schools](ml-summer-schools.md)
   * [Gource Commands](gource-commands.md)
+  * [Photography](photography.md)
