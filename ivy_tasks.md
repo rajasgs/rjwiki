@@ -116,3 +116,45 @@ Create a dummy LI account to collect these
 ```
 
 
+### 123007 - Kaggle Collection
+```
+https://www.kaggle.com/code/manojmavatkar/credit-card-fraud-detection
+
+Algorithms:
+LinearSVC
+SGDClassifier
+MLPClassifier
+Perceptron
+LogisticRegression
+LogisticRegressionCV
+SVC
+CalibratedClassifierCV
+PassiveAggressiveClassifier
+LabelPropagation
+LabelSpreading
+RandomForestClassifier
+GradientBoostingClassifier
+QuadraticDiscriminantAnalysis
+HistGradientBoostingClassifier
+RidgeClassifierCV
+RidgeClassifier
+AdaBoostClassifier
+ExtraTreesClassifier
+KNeighborsClassifier
+BaggingClassifier
+BernoulliNB
+LinearDiscriminantAnalysis
+GaussianNB
+NuSVC
+DecisionTreeClassifier
+NearestCentroid
+ExtraTreeClassifier
+CheckingClassifier
+DummyClassifier
+
+Video:
+
+
+Automate this with Smart Data Collector:
+https://docs.google.com/spreadsheets/d/1jMkjaQ1Sv9MrBn12XOJAlktczbAXlg9aDAWe9l7SkdI/
+```
