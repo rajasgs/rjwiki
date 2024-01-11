@@ -169,6 +169,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7150974022057353218
 GSheet:
 https://docs.google.com/spreadsheets/d/1b4RgKHhLZ8mk4NA2mFBe_pSpDkF90C-v1wCE28MbLCw/
 
+source:
+https://www.linkedin.com/groups/961087/
+
 Published
 https://rajasgs.gitbook.io/ml-posts/
 
