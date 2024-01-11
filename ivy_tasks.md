@@ -158,3 +158,25 @@ Video:
 Automate this with Smart Data Collector:
 https://docs.google.com/spreadsheets/d/1jMkjaQ1Sv9MrBn12XOJAlktczbAXlg9aDAWe9l7SkdI/
 ```
+
+
+
+### 123008 - 
+```
+ML Post Collection:
+
+https://www.linkedin.com/feed/update/urn:li:activity:7150974022057353218
+
+```
+
+### 123009 - Book of the week
+```
+Sample:
+https://docs.google.com/presentation/d/1Yof6LH1FUXnPVrLL4uKOS3WAIVo2nmrG4-FhkBsUyQo/edit#slide=id.p1
+```
+
+### 123010 - AI Crossword puzzle
+```
+https://github.com/rajasgs/randomfile/blob/master/TCE05-Crossword-Season-1.pdf
+```
+
