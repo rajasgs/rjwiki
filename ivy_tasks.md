@@ -166,7 +166,8 @@ https://docs.google.com/spreadsheets/d/1jMkjaQ1Sv9MrBn12XOJAlktczbAXlg9aDAWe9l7S
 ML Post Collection:
 https://www.linkedin.com/feed/update/urn:li:activity:7150974022057353218
 
-
+GSheet:
+https://docs.google.com/spreadsheets/d/1b4RgKHhLZ8mk4NA2mFBe_pSpDkF90C-v1wCE28MbLCw/
 
 Published
 https://rajasgs.gitbook.io/ml-posts/
