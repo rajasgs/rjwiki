@@ -172,6 +172,9 @@ https://docs.google.com/spreadsheets/d/1b4RgKHhLZ8mk4NA2mFBe_pSpDkF90C-v1wCE28Mb
 Published
 https://rajasgs.gitbook.io/ml-posts/
 
+How to collect?
+https://www.loom.com/share/b8c4e351aed14a5db574af76c5b407b3
+
 ```
 
 ### 123009 - Book of the week
