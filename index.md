@@ -52,3 +52,4 @@
   * [ML Summer Schools](ml-summer-schools.md)
   * [Gource Commands](gource-commands.md)
   * [Photography](photography.md)
+  * [Why You Can't Learn From LinkedIn Posts](why-you-cant-learn-from-linkedin.md)
