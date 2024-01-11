@@ -164,8 +164,12 @@ https://docs.google.com/spreadsheets/d/1jMkjaQ1Sv9MrBn12XOJAlktczbAXlg9aDAWe9l7S
 ### 123008 - 
 ```
 ML Post Collection:
-
 https://www.linkedin.com/feed/update/urn:li:activity:7150974022057353218
+
+
+
+Published
+https://rajasgs.gitbook.io/ml-posts/
 
 ```
 
@@ -178,5 +182,15 @@ https://docs.google.com/presentation/d/1Yof6LH1FUXnPVrLL4uKOS3WAIVo2nmrG4-FhkBsU
 ### 123010 - AI Crossword puzzle
 ```
 https://github.com/rajasgs/randomfile/blob/master/TCE05-Crossword-Season-1.pdf
+```
+
+
+### 123011 - Failes Startups
+```
+https://www.youtube.com/shorts/3zbe2m6OLak
+
+https://docs.google.com/spreadsheets/d/13oF4L9ajAFLg61MYZXii2blGc16hE-2i9wJgpfVrQ_Y/edit#gid=0
+
+https://techcrunch.com/2023/12/30/remembering-the-startups-we-lost-in-2023/
 ```
 
