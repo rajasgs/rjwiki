@@ -213,5 +213,8 @@ https://ised-isde.canada.ca/cc/lgcy/fdrlCrpSrch.html
 
 Search:
 https://ised-isde.canada.ca/cc/lgcy/fdrlCrpSrch.html?p=0&crpNm=A*&crpNmbr=&bsNmbr=&cProv=&cStatus=&cAct=
+
+Single company
+https://ised-isde.canada.ca/cc/lgcy/fdrlCrpDtls.html?p=1&corpId=3522334&V_TOKEN=null&crpNm=T*&crpNmbr=&bsNmbr=&cProv=&cStatus=&cAct=
 ```
 
