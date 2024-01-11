@@ -201,3 +201,14 @@ https://docs.google.com/spreadsheets/d/13oF4L9ajAFLg61MYZXii2blGc16hE-2i9wJgpfVr
 https://techcrunch.com/2023/12/30/remembering-the-startups-we-lost-in-2023/
 ```
 
+
+### 123012 - Canadian companies collection
+```
+Collect Canadian SME (Small and Medium Enterprises) 
+
+by Corporation Number
+by name
+
+https://ised-isde.canada.ca/cc/lgcy/fdrlCrpSrch.html
+```
+
