@@ -218,3 +218,17 @@ Single company
 https://ised-isde.canada.ca/cc/lgcy/fdrlCrpDtls.html?p=1&corpId=3522334&V_TOKEN=null&crpNm=T*&crpNmbr=&bsNmbr=&cProv=&cStatus=&cAct=
 ```
 
+
+
+### 123013 - Old Assignments
+```
+Collect old assginments from 2015 - 2020:
+
+- in India
+
+- in Philippines
+
+- in Canada
+
+- in States
+```
