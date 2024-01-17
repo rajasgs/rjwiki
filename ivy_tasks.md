@@ -232,3 +232,17 @@ Collect old assginments from 2015 - 2020:
 
 - in States
 ```
+
+
+### 123014 - Collect MLer LinkedIn
+```
+Collect Machine Learning Engineers or Data Scientists from various sources
+
+source 1:
+Linkedin
+
+GSheet:
+https://docs.google.com/spreadsheets/d/1xKyEn636YJNZftDpvkxzrBCCkW12sr1o5msOA_Gn9Gg/
+
+
+```
