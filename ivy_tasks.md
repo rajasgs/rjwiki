@@ -16,7 +16,7 @@ title: Ivy Tasks
 ```
 
 
-### 123001 - Collect MLers
+### 1230001 - Collect MLers
 ```
 Public MLer
 
@@ -42,7 +42,7 @@ Dump them in to Google Sheet
 
 
 
-### 123002 - Collect Podcast videos
+### 1230002 - Collect Podcast videos
 ```
 The Balls of Steel Show - EP13: Amanpreet Singh - F13 Technologies
 https://www.youtube.com/watch?v=8u5EaBVQIJ4
@@ -64,7 +64,7 @@ https://www.linkedin.com/company/thebosshubxyz/posts/?feedView=all
 ```
 
 
-### 123003 - Collect top 10 Edtech / Groups
+### 1230003 - Collect top 10 Edtech / Groups
 ```
 :
 Guvi				- https://www.linkedin.com/company/guviofficial
@@ -74,7 +74,7 @@ Machine Learning Community (Moderated) - https://www.linkedin.com/groups/961087/
 Datacamp 		- https://www.linkedin.com/school/datacampinc/
 ```
 
-### 123004 - Collect 200 Posts like this
+### 1230004 - Collect 200 Posts like this
 ```
 1. https://www.linkedin.com/posts/codecademy_learner-george-bell-has-maintained-a-3106-activity-7140813143647121408-ifF5
 
@@ -88,14 +88,14 @@ Datacamp 		- https://www.linkedin.com/school/datacampinc/
 ```
 
 
-### 123005 - 100 Days of DS
+### 1230005 - 100 Days of DS
 ```
 100 days of DS
 	100daysofdatascience-ashwin.txt
 ```
 
 
-### 123006 - ML Job Requirements
+### 1230006 - ML Job Requirements
 ```
 ML job requirements collection
 	phase 1: collect 10K jobs manually
@@ -116,7 +116,7 @@ Create a dummy LI account to collect these
 ```
 
 
-### 123007 - Kaggle Collection
+### 1230007 - Kaggle Collection
 ```
 https://www.kaggle.com/code/manojmavatkar/credit-card-fraud-detection
 
@@ -161,7 +161,7 @@ https://docs.google.com/spreadsheets/d/1jMkjaQ1Sv9MrBn12XOJAlktczbAXlg9aDAWe9l7S
 
 
 
-### 123008 - 
+### 1230008 - 
 ```
 ML Post Collection:
 https://www.linkedin.com/feed/update/urn:li:activity:7150974022057353218
@@ -180,19 +180,19 @@ https://www.loom.com/share/b8c4e351aed14a5db574af76c5b407b3
 
 ```
 
-### 123009 - Book of the week
+### 1230009 - Book of the week
 ```
 Sample:
 https://docs.google.com/presentation/d/1Yof6LH1FUXnPVrLL4uKOS3WAIVo2nmrG4-FhkBsUyQo/edit#slide=id.p1
 ```
 
-### 123010 - AI Crossword puzzle
+### 1230010 - AI Crossword puzzle
 ```
 https://github.com/rajasgs/randomfile/blob/master/TCE05-Crossword-Season-1.pdf
 ```
 
 
-### 123011 - Failes Startups
+### 1230011 - Failes Startups
 ```
 https://www.youtube.com/shorts/3zbe2m6OLak
 
@@ -202,7 +202,7 @@ https://techcrunch.com/2023/12/30/remembering-the-startups-we-lost-in-2023/
 ```
 
 
-### 123012 - Canadian companies collection
+### 1230012 - Canadian companies collection
 ```
 Collect Canadian SME (Small and Medium Enterprises) 
 
@@ -220,7 +220,7 @@ https://ised-isde.canada.ca/cc/lgcy/fdrlCrpDtls.html?p=1&corpId=3522334&V_TOKEN=
 
 
 
-### 123013 - Old Assignments
+### 1230013 - Old Assignments
 ```
 Collect old assginments from 2015 - 2020:
 
@@ -234,7 +234,7 @@ Collect old assginments from 2015 - 2020:
 ```
 
 
-### 123014 - Collect MLer LinkedIn
+### 1230014 - Collect MLer LinkedIn
 ```
 Collect Machine Learning Engineers or Data Scientists from various sources
 
