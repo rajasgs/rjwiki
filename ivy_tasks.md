@@ -246,3 +246,19 @@ https://docs.google.com/spreadsheets/d/1xKyEn636YJNZftDpvkxzrBCCkW12sr1o5msOA_Gn
 
 
 ```
+
+
+### 1230014 - Collect MLer LinkedIn
+```
+Collect 300 AI Influencers like these
+
+AI Influencers:
+
+https://www.linkedin.com/in/ashishpatel2604/
+
+https://www.linkedin.com/in/maxrascher-ai/
+
+https://www.linkedin.com/in/rory-flynn-ai/
+
+https://www.linkedin.com/in/liorsinclair/
+```

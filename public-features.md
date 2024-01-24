@@ -10,7 +10,7 @@ title: Public Features
 
 
 
-### 1 - Dataviz Mentor
+### 3710001 - Dataviz Mentor
 - Dataviz Mentor
 - https://chat.openai.com/g/g-rk1495Cu2-dataviz-mentor
 - https://gael.io/blog/dataviz-mentor/
@@ -19,4 +19,7 @@ title: Public Features
 
 
 
+
+### Animation
+- https://www.linkedin.com/posts/rory-flynn-ai_ai-midjourney-chatgpt-activity-7153849718890987521-hyAe
 

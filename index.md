@@ -56,3 +56,4 @@
   * [Regithub / Regit / Rehub](regithub.md)
   * [Audio Video Image Formats](audio-video-image-formats.md)
   * [Public Features](public-features.md)
+  * [Extension](extension.md)
