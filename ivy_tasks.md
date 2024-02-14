@@ -262,3 +262,24 @@ https://www.linkedin.com/in/rory-flynn-ai/
 
 https://www.linkedin.com/in/liorsinclair/
 ```
+
+
+
+### 1230015 - Youtube Stats Collector
+```
+Collect Youtube Stats like this
+
+
+https://www.youtube.com/watch?v=zVBHOKJgouI
+Video ID / sCPN zVBHOKJgouI / 532A TK5S DX0M
+Viewport / Frames 1371x771 / 0 dropped of 160
+Current / Optimal Res 1920x1080@25 / 1920x1080@25
+Volume / Normalized 100% / 100% (content loudness -5.4dB)
+Codecs vp09.00.51.08.01.01.01.01.00 (248) / opus (251)
+Color bt709 / bt709
+Connection Speed 123426 Kbps
+Network Activity 0 KB
+Buffer Health 38.90 s
+Mystery Text s:4 t:6.22 b:0.000-45.120 P L pl_i:74 pbs:415
+Date Wed Feb 14 2024 08:24:16 GMT+0530 (India Standard Time)
+```
