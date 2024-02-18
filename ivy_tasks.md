@@ -283,3 +283,23 @@ Buffer Health 38.90 s
 Mystery Text s:4 t:6.22 b:0.000-45.120 P L pl_i:74 pbs:415
 Date Wed Feb 14 2024 08:24:16 GMT+0530 (India Standard Time)
 ```
+
+
+### 1230016 - MLInfluence Multi Classification
+```
+ML Influencers:
+
+Real-Influencers
+	https://www.linkedin.com/in/youssef-hosni-b2960b135/
+	82,151 followers | Feb 18, 2024
+
+	They do real work and research
+
+Content-Forward-Influencers:
+	https://www.linkedin.com/in/ashishpatel2604/
+	87,371 followers | Feb 18, 2024
+
+	They don't do real research. They just find the right content and forward to gain audience trust
+
+
+```
