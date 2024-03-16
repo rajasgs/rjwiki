@@ -58,4 +58,5 @@
   * [Public Features](public-features.md)
   * [Extension](extension.md)
   * [Azure Container App](azure-container-app.md)
+  * [Exploring Tech](exploring-tech.md)
   * [Test](test.md)
