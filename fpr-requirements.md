@@ -50,7 +50,7 @@ Book Rental App:
 
 5. Other users view what books available
 
-6. 
+6.
 ```
 
 
@@ -67,7 +67,7 @@ River = Creme + Scikit-multiflow
 
 	Our Daily Engine is semi automated with ML and admin inputs
 
-Create a POC 
+Create a POC
 
 ```
 
@@ -349,7 +349,7 @@ https://en.wikipedia.org/wiki/Timeline_of_Amazon_Web_Services
 
 1. S3 - March 2007
 
-2. EC2 - 
+2. EC2 -
 
 ec2
 rds
@@ -439,7 +439,7 @@ https://console.vantage.sh/signup
 
 
 Colleague Dynamics / cod collector
-	
+
 	https://syndigo.awardco.com/recognize
 
 	title:
@@ -529,7 +529,7 @@ Create ML Models
 
 
 PugSQL and FastAPI
-	
+
 	CRUD
 
 	local_scrape_item
@@ -596,7 +596,7 @@ Nuvo ML
 
 
 Weekly Python Battle:
-	
+
 	Eligibility:
 	You must have finished Python basic courses on FPR
 	5$ or equivalent credits
@@ -651,7 +651,7 @@ Memificaiton:
 
 	2. You can disable/enable the meme anytime
 
-	3. 
+	3.
 ```
 
 
@@ -785,7 +785,7 @@ InstaScript
 	For your product, we will generate a script aligning with other similar proudcts
 		product:
 		CSP Photography (collect from 20 Photographers)
-		Featurepreneur	
+		Featurepreneur
 ```
 
 
@@ -795,7 +795,7 @@ InstaScript
 # 2951
 
 
-Featurepreneur 
+Featurepreneur
 	vijitha.fpr.com
 		Online profile
 		Download resume
@@ -878,7 +878,7 @@ Marriage Wishlist
 - Parquet download
 - Notebook download
 - Dar file download
-- 
+-
 
 ```
 
@@ -911,7 +911,7 @@ https://www.walmart.com/store/1055
 
 Store Finder with Selenium
 
-Download HAR 
+Download HAR
 
 https://www.walmart.com/store/2038-sterling-va
 
@@ -944,7 +944,36 @@ https://github.com/tactlabs/flinkvil
 ```
 # 2961
 
+Excel2Postman
 
+Write dummpy FastAPI as a server
+	End point should access JSON body in POST reqeust and return JSON
+	Business case:
+		API will process user record
+			{
+		    		"userid" : 101,
+		    		"username" : "raja",
+		    		"city" : "Toronto"
+			}
+
+			Taking this input, API will convert into these:
+			{
+			    	"userid" : 190001,
+			    	"username" : "ajar",
+			    	"cityid" : 1
+			}
+
+			ID is reindexed to 190001
+			username is reversed
+			cityid provided instead of city
+
+Write manual testcases (3 for one end point)
+
+Create Excel Base for this API
+	id, userid, username, city
+
+
+Convert this Excel Base to PostmanAPI with Basic Testcases
 
 ```
 
