@@ -972,7 +972,6 @@ Write manual testcases (3 for one end point)
 Create Excel Base for this API
 	id, userid, username, city
 
-
 Convert this Excel Base to PostmanAPI with Basic Testcases
 
 Base:
